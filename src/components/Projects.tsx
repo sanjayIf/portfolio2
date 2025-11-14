@@ -77,7 +77,7 @@ const Projects = () => {
     //   year: "Aug 2022 - Jul 2023",
     // },
     {
-      id: 5,
+      id: 4,
       title: "Ludo Multiplayer",
       description: "4-Player Ludo Game (Functionality Update)",
       fullDescription:
@@ -88,7 +88,7 @@ const Projects = () => {
       year: "Aug 2022 - Jul 2023",
     },
     {
-      id: 6,
+      id: 5,
       title: "Poker - Real Money",
       description: "8-Player Multiplayer Card Game",
       fullDescription:
@@ -101,7 +101,7 @@ const Projects = () => {
 
     // --- Projects at Invisible Fiction (Jan 2015 - Aug 2022) ---
     {
-      id: 7,
+      id: 6,
       title: "StoryBook",
       description: "3D Story Creation & Player System",
       fullDescription:
@@ -112,7 +112,7 @@ const Projects = () => {
       year: "Jan 2015 - Aug 2022",
     },
     {
-      id: 8,
+      id: 7,
       title: "FrogWarz",
       description: "Multi-level Battle Game",
       fullDescription:
@@ -123,7 +123,7 @@ const Projects = () => {
       year: "Jan 2015 - Aug 2022",
     },
     {
-      id: 9,
+      id: 8,
       title: "Kne3Wiz",
       description: "Knee Replacement Surgery Planning System",
       fullDescription:
@@ -135,7 +135,7 @@ const Projects = () => {
       link: "https://arthro3d.online/products/kne3wiz/",
     },
     {
-      id: 10,
+      id: 9,
       title: "ARKI",
       description: "Dynamic AR Marker System",
       fullDescription:
@@ -146,7 +146,7 @@ const Projects = () => {
       year: "Jan 2015 - Aug 2022",
     },
     {
-      id: 11,
+      id: 10,
       title: "Virtual Jewellery ShowRoom",
       description: "Virtual Showroom Experience",
       fullDescription:
@@ -158,7 +158,7 @@ const Projects = () => {
       link: "Video Link",
     },
     {
-      id: 12,
+      id: 11,
       title: "LencePro",
       description: "Medical Glass Measurement App",
       fullDescription:
@@ -169,7 +169,7 @@ const Projects = () => {
       year: "Under Development",
     },
     {
-      id: 13,
+      id: 12,
       title: "Tixxi",
       description: "Event-Based Social Application",
       fullDescription:
@@ -181,7 +181,7 @@ const Projects = () => {
       link: "https://tixxiapp.com/#!",
     },
     {
-      id: 14,
+      id: 13,
       title: "ColourBook AR",
       description: "AR Coloring Application",
       fullDescription:
@@ -193,7 +193,7 @@ const Projects = () => {
       link: "PlayStore Link",
     },
     {
-      id: 15,
+      id: 14,
       title: "ObjectDetection ML",
       description: "Machine Learning Project",
       fullDescription:
@@ -204,7 +204,7 @@ const Projects = () => {
       year: "Jan 2015 - Aug 2022",
     },
     {
-      id: 16,
+      id: 15,
       title: "Storyland",
       description: "Multiplayer Exploration Game",
       fullDescription:
@@ -215,7 +215,7 @@ const Projects = () => {
       year: "Jan 2015 - Aug 2022",
     },
     {
-      id: 17,
+      id: 16,
       title: "LittleLense",
       description: "AR Kids Face Filter App",
       fullDescription:
@@ -227,7 +227,7 @@ const Projects = () => {
       link: "PlayStore Link",
     },
     {
-      id: 18,
+      id: 17,
       title: "ToppleTree",
       description: "Multiplayer Balance Game",
       fullDescription:
@@ -240,7 +240,7 @@ const Projects = () => {
     },
     // --- Freelance Projects ---
     {
-      id: 19,
+      id: 18,
       title: "BearBrowls Ultras",
       description: "Multiplayer Strategy Game",
       fullDescription:
@@ -252,7 +252,7 @@ const Projects = () => {
       link: "Apk Link",
     },
     {
-      id: 20,
+      id: 19,
       title: "God Generation AR",
       description: "AR Temple Application",
       fullDescription:
@@ -265,7 +265,7 @@ const Projects = () => {
 
     // --- Final Year Projects ---
     {
-      id: 21,
+      id: 20,
       title: "Car Game",
       description: "B.E. Simple 3D Car Game",
       fullDescription:
@@ -276,7 +276,7 @@ const Projects = () => {
       year: "B.E. Project",
     },
     {
-      id: 22,
+      id: 21,
       title: "Online Tractor Selling System",
       description: "Diploma Project: Web Application",
       fullDescription:
@@ -287,7 +287,7 @@ const Projects = () => {
       year: "Diploma Project",
     },
     {
-      id: 23,
+      id: 22,
       title: "Baccarat",
       description: "Multiplayer Casino Card Game",
       fullDescription:
@@ -298,7 +298,7 @@ const Projects = () => {
       year: "Aug 2022 - Jul 2023",
     },
     {
-      id: 24,
+      id: 23,
       title: "BlackJack",
       description: "Multiplayer Casino Card Game",
       fullDescription:
@@ -309,7 +309,7 @@ const Projects = () => {
       year: "Aug 2022 - Jul 2023",
     },
     {
-      id: 25,
+      id: 24,
       title: "Casino War",
       description: "Multiplayer Casino Card Game",
       fullDescription:
@@ -320,7 +320,7 @@ const Projects = () => {
       year: "Aug 2022 - Jul 2023",
     },
     {
-      id: 26,
+      id: 25,
       title: "Mini flush",
       description: "Multiplayer Casino Card Game",
       fullDescription:
@@ -331,7 +331,7 @@ const Projects = () => {
       year: "Aug 2022 - Jul 2023",
     },
     {
-      id: 27,
+      id: 26,
       title: "7 Up Down",
       description: "Multiplayer Casino Game",
       fullDescription:
@@ -342,7 +342,7 @@ const Projects = () => {
       year: "Aug 2022 - Jul 2023",
     },
     {
-      id: 28,
+      id: 27,
       title: "Andar Bahar",
       description: "Multiplayer Casino Card Game",
       fullDescription:
