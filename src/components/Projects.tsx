@@ -65,17 +65,17 @@ const Projects = () => {
     },
 
     // --- Projects at Intricare Technology (Aug 2022 - Jul 2023) ---
-    {
-      id: 4,
-      title: "Casino Game Suite",
-      description: "6 Multiplayer Casino Games",
-      fullDescription:
-        "Developed Baccarat, BlackJack, Casino War, Mini Flush, 7 Up Down, and Andar Bahar. All are multiplayer casino games that display results based on rules and input from a card shoe.",
-      category: "casino",
-      tech: ["Unity 3D", "C#", "Networking"],
-      team: "Development Team",
-      year: "Aug 2022 - Jul 2023",
-    },
+    // {
+    //   id: 4,
+    //   title: "Casino Game Suite",
+    //   description: "6 Multiplayer Casino Games",
+    //   fullDescription:
+    //     "Developed Baccarat, BlackJack, Casino War, Mini Flush, 7 Up Down, and Andar Bahar. All are multiplayer casino games that display results based on rules and input from a card shoe.",
+    //   category: "casino",
+    //   tech: ["Unity 3D", "C#", "Networking"],
+    //   team: "Development Team",
+    //   year: "Aug 2022 - Jul 2023",
+    // },
     {
       id: 5,
       title: "Ludo Multiplayer",
