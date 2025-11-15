@@ -47,25 +47,19 @@ const About = () => {
           {/* Two Column Layout */}
           <div className="grid md:grid-cols-2 gap-12 mb-16">
             {/* Left: Bio */}
-            <div className="animate-fade-in-up space-y-6">
-              <div className="relative group">
-                <div className="absolute -inset-1 bg-gradient-to-r from-primary to-accent rounded-2xl blur opacity-25 group-hover:opacity-40 transition duration-300" />
-                <div className="relative aspect-square rounded-2xl bg-card border border-border overflow-hidden shadow-glow">
-                  <div className="w-full h-full flex items-center justify-center bg-gradient-to-br from-primary/20 to-accent/20">
-                    <div className="text-center">
-                      <div className="relative aspect-square rounded-2xl bg-card border border-border overflow-hidden shadow-glow">
-                        <img
-                          src="/images/jaydipsinh_parmar.jpg"
-                          alt="Jaydipsinh Parmar"
-                          className="absolute inset-0 w-full h-full object-cover"
-                        />
-                      </div>
-                      <p className="text-muted-foreground text-center">Professional Photo</p>
-                    </div>
+              <div className="animate-fade-in-up space-y-6">
+                <div className="relative group">
+                  <div className="absolute -inset-1 bg-gradient-to-r from-primary to-accent rounded-2xl blur opacity-25 group-hover:opacity-40 transition duration-300" />
+
+                  <div className="relative aspect-square rounded-2xl border border-border overflow-hidden shadow-glow">
+                    <img
+                      src="images/jaydipsinh_parmar.jpg"
+                      alt="Jaydipsinh Parmar"
+                      className="absolute inset-0 w-full h-full object-cover"
+                    />
                   </div>
                 </div>
               </div>
-            </div>
 
             {/* Right: Description */}
             <div className="animate-fade-in-up space-y-6">
