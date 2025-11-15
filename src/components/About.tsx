@@ -53,10 +53,14 @@ const About = () => {
                 <div className="relative aspect-square rounded-2xl bg-card border border-border overflow-hidden shadow-glow">
                   <div className="w-full h-full flex items-center justify-center bg-gradient-to-br from-primary/20 to-accent/20">
                     <div className="text-center">
-                      <div className="w-32 h-32 mx-auto mb-4 rounded-full bg-primary/30 flex items-center justify-center">
-                        <Users className="w-16 h-16 text-primary" />
+                      <div className="w-32 h-32 mx-auto mb-4 rounded-full overflow-hidden border border-primary/30 shadow-glow">
+                        <img
+                          src="/images/jaydipsinh_parmar.jpg"
+                          alt="Jaydipsinh Parmar"
+                          className="w-full h-full object-cover"
+                        />
                       </div>
-                      <p className="text-muted-foreground">Professional Photo</p>
+                      <p className="text-muted-foreground text-center">Professional Photo</p>
                     </div>
                   </div>
                 </div>
@@ -95,8 +99,8 @@ const About = () => {
               <div className="space-y-3">
                 <div className="flex items-center gap-3 text-sm">
                   <Mail className="w-5 h-5 text-accent" />
-                  <a href="mailto:jaydip.parmar.if@gmail.com" className="text-muted-foreground hover:text-accent transition-colors">
-                    jaydip.parmar.if@gmail.com
+                  <a href="mailto:parmarjaydip465@gmail.com" className="text-muted-foreground hover:text-accent transition-colors">
+                    parmarjaydip465@gmail.com
                   </a>
                 </div>
                 <div className="flex items-center gap-3 text-sm">
