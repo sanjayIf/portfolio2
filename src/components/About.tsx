@@ -55,7 +55,7 @@ const About = () => {
                     <div className="text-center">
                       <div className="w-32 h-32 mx-auto mb-4 rounded-full overflow-hidden border border-primary/30 shadow-glow">
                         <img
-                          src="/images/jaydipsinh_parmar.jpg"
+                          src="images/jaydipsinh_parmar.jpg"
                           alt="Jaydipsinh Parmar"
                           className="w-full h-full object-cover"
                         />
