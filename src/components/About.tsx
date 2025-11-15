@@ -53,11 +53,11 @@ const About = () => {
                 <div className="relative aspect-square rounded-2xl bg-card border border-border overflow-hidden shadow-glow">
                   <div className="w-full h-full flex items-center justify-center bg-gradient-to-br from-primary/20 to-accent/20">
                     <div className="text-center">
-                      <div className="w-96 h-96 mx-auto mb-4 rounded-full overflow-hidden border border-primary/30 shadow-glow">
+                      <div className="relative aspect-square rounded-2xl bg-card border border-border overflow-hidden shadow-glow">
                         <img
-                          src="images/jaydipsinh_parmar.jpg"
+                          src="/images/jaydipsinh_parmar.jpg"
                           alt="Jaydipsinh Parmar"
-                          className="w-full h-full object-cover"
+                          className="absolute inset-0 w-full h-full object-cover"
                         />
                       </div>
                       <p className="text-muted-foreground text-center">Professional Photo</p>
